@@ -1,1 +1,1 @@
-# misao writing for `crypto`
+# misao writing about crypto
